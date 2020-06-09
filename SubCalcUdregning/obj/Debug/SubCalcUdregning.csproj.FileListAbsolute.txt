@@ -1,0 +1,7 @@
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\bin\Debug\SubCalcUdregning.exe.config
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\bin\Debug\SubCalcUdregning.exe
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\bin\Debug\SubCalcUdregning.pdb
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\obj\Debug\SubCalcUdregning.csprojAssemblyReference.cache
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\obj\Debug\SubCalcUdregning.csproj.CoreCompileInputs.cache
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\obj\Debug\SubCalcUdregning.exe
+C:\Users\jesp446c\source\repos\SubCalcUdregning\SubCalcUdregning\obj\Debug\SubCalcUdregning.pdb
